@@ -1,6 +1,6 @@
 # Open-University-Learning-Analysis
 
-[Open University Learning Analytics dataset](https://analyse.kmi.open.ac.uk/open_dataset#description) contains various details of a student and course which is used to identify the factors that affect the performance of the student.
+[Open University Learning Analytics dataset](https://analyse.kmi.open.ac.uk/open_dataset#description) contains details of students and courses offered which is used to identify the factors that affect the performance of the student.
 
 Reference:
 
